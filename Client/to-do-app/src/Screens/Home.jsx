@@ -7,7 +7,7 @@ const Home = () => {
       <div className="max-w-6xl w-full flex flex-row px-4 gap-6">
         
         {/* Add Task Container */}
-        <div className="w-1/2 flex flex-col">
+        <div className="w-1/2 flex flex-col bg-white p-6 rounded-lg shadow-md">
           <h2 className="text-xl font-semibold text-[#3D3D3D]">Add a Task</h2>
           <input
             type="text"
@@ -30,7 +30,7 @@ const Home = () => {
         <div className="w-[2px] bg-gray-300"></div>
 
         {/* To Do List Container */}
-        <div className="w-1/2">
+        <div className="w-1/2 bg-white p-6 rounded-lg shadow-md">
           <h2 className="text-xl font-semibold text-[#3D3D3D]">Tasks to do</h2>
           <div className="mt-4 space-y-4">
               
