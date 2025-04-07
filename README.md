@@ -1,4 +1,9 @@
-<h1>To-Do List Application</h1>
+<div align="center">
+  <h1>To-Do List Application</h1>
+  <img src="./System-Screenshots/Banner.png" alt="Banner" width="1080">
+</div>
+
+<br />
 
 <p>This is a simple Full Stack To-Do List Application built using:</p>
 
